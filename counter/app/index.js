@@ -1,6 +1,5 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import foo from './store/foo'
 import createStore from './store'
 import AppContainer from './containers/AppContainer'
 
